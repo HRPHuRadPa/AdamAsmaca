@@ -2,8 +2,6 @@
 #Hüseyin tarafından oluşturuldu.
 import random
 import sys
-
-print("INSTAGRAM : huseyin.138 ")
 print("")
 ad = input("Adınız: ")
 print("Adam asmaca oyununa hoşgeldin" + " " + ad)
